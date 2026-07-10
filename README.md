@@ -19,7 +19,7 @@ O foco do projeto não é só "rodar queries", mas construir uma **narrativa ana
 ├── clientes.csv             # Dados cadastrais dos clientes (500 registros)
 ├── saldos_mensais.csv       # Snapshots mensais de saldo e status (7.300 registros)
 ├── queries.sql               # Todas as queries SQL do projeto
-└── dashboard.pbix            # Dashboard Power BI
+└── Análise Patrimonial.pbix  # Dashboard Power BI
 ```
 
 ## 🧱 Modelagem de Dados
