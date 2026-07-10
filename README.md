@@ -19,7 +19,7 @@ O foco do projeto não é só "rodar queries", mas construir uma **narrativa ana
 ├── clientes.csv             # Dados cadastrais dos clientes (500 registros)
 ├── saldos_mensais.csv       # Snapshots mensais de saldo e status (7.300 registros)
 ├── queries.sql               # Todas as queries SQL do projeto
-└── Análise Patrimonial.pbix  # Dashboard Power BI
+└── analise_patrimonial.pbix  # Dashboard Power BI
 ```
 
 ## 🧱 Modelagem de Dados
@@ -88,7 +88,7 @@ O dashboard foi construído para contar essa narrativa em camadas: visão geral 
 1. Rode `gerar_dados.py` para gerar `clientes.csv` e `saldos_mensais.csv`
 2. Crie um banco SQLite e execute os `CREATE TABLE` + import dos CSVs (ver `queries.sql`)
 3. Rode as queries de `queries.sql` para validar os números de negócio
-4. Abra `dashboard.pbix` no Power BI Desktop, aponte a origem de dados para os CSVs gerados
+4. Abra `analise_patrimonial.pbix` no Power BI Desktop, aponte a origem de dados para os CSVs gerados
 
 ## 📚 Aprendizados Técnicos
 
