@@ -1,0 +1,501 @@
+id_cliente,nome_cliente,data_entrada,tipo_cliente
+1,Dr. José Pedro Cunha,2023-08-01,Private
+2,Aurora Cardoso,2024-07-01,Varejo
+3,Isadora Campos,2023-10-01,Varejo
+4,José Pedro Pacheco,2026-01-01,Private
+5,Ana Beatriz Vieira,2025-05-01,Private
+6,Paulo da Mota,2023-07-01,Varejo
+7,Caroline Costela,2025-10-01,Varejo
+8,Srta. Ana Liz Nunes,2026-02-01,Private
+9,Sra. Ana Vitória da Paz,2026-01-01,Varejo
+10,Luiz Fernando Souza,2025-07-01,Varejo
+11,Maria Alice Rodrigues,2023-01-01,Varejo
+12,Dr. Benício Almeida,2023-11-01,Varejo
+13,Dra. Kamilly da Mata,2024-11-01,Varejo
+14,João Miguel Gomes,2024-03-01,Varejo
+15,Ana Liz Nascimento,2024-11-01,Private
+16,Ana Júlia Ferreira,2025-02-01,Private
+17,Maria Luiza Dias,2024-12-01,Varejo
+18,Antony Ribeiro,2023-03-01,Varejo
+19,Ravy Vargas,2026-01-01,Private
+20,Antonella Guerra,2025-02-01,Private
+21,João Vitor da Mota,2024-08-01,Varejo
+22,Gabrielly da Cunha,2025-01-01,Varejo
+23,Arthur Gabriel Sousa,2023-05-01,Private
+24,Maria Júlia Nascimento,2024-04-01,Varejo
+25,Dr. Davi Lucas Silveira,2023-06-01,Varejo
+26,Davi Lucas Farias,2023-07-01,Varejo
+27,Théo Moura,2025-07-01,Varejo
+28,Luísa Melo,2025-01-01,Private
+29,Léo da Rocha,2024-12-01,Varejo
+30,Maria Eduarda Fonseca,2024-06-01,Varejo
+31,Dr. Erick Nogueira,2023-05-01,Varejo
+32,Dra. Bella Cardoso,2023-12-01,Varejo
+33,Yasmin Moraes,2024-05-01,Private
+34,Alícia da Cunha,2025-02-01,Varejo
+35,Dr. José Vieira,2026-02-01,Varejo
+36,Sra. Nicole Novais,2024-10-01,Varejo
+37,Maria Vitória Pastor,2023-04-01,Varejo
+38,Marcelo Siqueira,2023-03-01,Varejo
+39,Raquel Mendes,2025-04-01,Varejo
+40,Ian Jesus,2024-03-01,Varejo
+41,Dom Vieira,2026-03-01,Varejo
+42,Emanuel Pastor,2024-10-01,Varejo
+43,Ian da Rocha,2025-10-01,Varejo
+44,Esther Pinto,2025-07-01,Private
+45,Sr. Alexandre Freitas,2023-10-01,Varejo
+46,Eduardo Caldeira,2026-02-01,Varejo
+47,Noah Carvalho,2026-04-01,Varejo
+48,Isabela Silva,2026-04-01,Varejo
+49,Ester das Neves,2024-03-01,Varejo
+50,Arthur Miguel Mendes,2023-10-01,Varejo
+51,Cauã da Costa,2023-07-01,Varejo
+52,Marcelo Andrade,2023-08-01,Private
+53,Pedro Miguel Campos,2023-11-01,Varejo
+54,Danilo Cavalcanti,2025-05-01,Varejo
+55,Rodrigo Moura,2025-02-01,Varejo
+56,João Miguel da Mata,2025-08-01,Varejo
+57,Maria Clara Rodrigues,2026-02-01,Varejo
+58,Caio Souza,2023-01-01,Varejo
+59,Dr. Arthur da Conceição,2023-08-01,Varejo
+60,Dr. Bryan Camargo,2026-01-01,Varejo
+61,Bryan Castro,2024-11-01,Private
+62,Brenda Souza,2025-06-01,Private
+63,Luiz Gustavo Peixoto,2023-01-01,Varejo
+64,Zoe Monteiro,2024-06-01,Varejo
+65,Clarice Fernandes,2024-01-01,Varejo
+66,Rodrigo Moreira,2023-08-01,Varejo
+67,Sr. Bernardo Montenegro,2024-09-01,Varejo
+68,Juliana Freitas,2025-11-01,Varejo
+69,Ana Clara Sales,2023-11-01,Varejo
+70,Maria Sophia Pastor,2023-11-01,Varejo
+71,Théo Sales,2025-12-01,Varejo
+72,Amanda Santos,2026-05-01,Varejo
+73,Rhavi Cunha,2023-02-01,Private
+74,Rafaela Novaes,2025-01-01,Varejo
+75,Ana Carolina Brito,2024-09-01,Varejo
+76,Srta. Maria Luísa da Luz,2024-05-01,Varejo
+77,Matteo Araújo,2023-06-01,Private
+78,Benjamin Viana,2025-09-01,Varejo
+79,Dr. Fernando Rodrigues,2025-12-01,Varejo
+80,Srta. Larissa Lima,2023-09-01,Varejo
+81,Arthur Miguel Moura,2026-01-01,Private
+82,Isaac Siqueira,2025-12-01,Varejo
+83,Sra. Maria da Cunha,2025-05-01,Varejo
+84,Maria Alice Castro,2026-01-01,Varejo
+85,Maya Cardoso,2024-02-01,Varejo
+86,Valentina Souza,2025-03-01,Varejo
+87,Luiz Otávio Alves,2025-02-01,Varejo
+88,Miguel Garcia,2025-11-01,Varejo
+89,Isis Vasconcelos,2024-05-01,Varejo
+90,Anthony Gabriel Cassiano,2024-11-01,Private
+91,Juliana Aragão,2026-02-01,Varejo
+92,Josué Souza,2024-03-01,Private
+93,Luiz Henrique Campos,2023-05-01,Varejo
+94,Lucas Gabriel Freitas,2023-03-01,Varejo
+95,Alana Barros,2023-05-01,Varejo
+96,Laura Almeida,2024-07-01,Varejo
+97,Sra. Laís Vieira,2024-03-01,Varejo
+98,Yuri Sá,2026-03-01,Varejo
+99,Eduarda Marques,2024-05-01,Varejo
+100,Levi Gomes,2025-04-01,Private
+101,Dra. Luiza Moraes,2023-07-01,Varejo
+102,Luan Leão,2024-12-01,Varejo
+103,Kevin Cunha,2025-08-01,Varejo
+104,Kaique Moura,2023-04-01,Varejo
+105,Dr. Vitor Vargas,2023-07-01,Private
+106,Maria Clara Pimenta,2024-11-01,Varejo
+107,Francisco Novais,2023-08-01,Varejo
+108,Heitor Pimenta,2024-01-01,Varejo
+109,Felipe Nogueira,2023-10-01,Varejo
+110,Maria Isis Cassiano,2024-07-01,Varejo
+111,Lucca da Mata,2023-06-01,Varejo
+112,Lunna Borges,2026-02-01,Private
+113,Sara Teixeira,2026-01-01,Varejo
+114,Lívia Almeida,2023-07-01,Varejo
+115,Maria Julia Abreu,2024-04-01,Private
+116,Vitor Gabriel da Cunha,2025-09-01,Varejo
+117,Mariane Pires,2025-04-01,Varejo
+118,Nicole Rios,2023-12-01,Varejo
+119,Sofia Fonseca,2025-03-01,Varejo
+120,Isabela Machado,2025-07-01,Varejo
+121,Ana Sophia Novais,2026-02-01,Varejo
+122,Fernanda Macedo,2025-09-01,Private
+123,Vinicius Castro,2024-08-01,Varejo
+124,Dr. Renan Alves,2023-04-01,Varejo
+125,Agatha Vargas,2026-01-01,Private
+126,Dra. Jade Farias,2024-10-01,Private
+127,Bento das Neves,2026-04-01,Varejo
+128,Esther Caldeira,2025-12-01,Private
+129,Zoe Mendonça,2025-11-01,Private
+130,Pietra Andrade,2024-01-01,Private
+131,Ana Julia Costa,2023-05-01,Varejo
+132,Brenda Campos,2024-04-01,Varejo
+133,Benjamim da Cruz,2026-03-01,Varejo
+134,Sara da Conceição,2026-05-01,Private
+135,Ana Laura Fogaça,2023-06-01,Varejo
+136,Laís Correia,2026-04-01,Varejo
+137,Rael Vieira,2024-10-01,Varejo
+138,Maria Luísa Duarte,2024-02-01,Varejo
+139,Vitória da Mata,2024-10-01,Varejo
+140,Sr. Bernardo Leão,2025-03-01,Private
+141,Srta. Bianca Silveira,2024-09-01,Varejo
+142,Luiza da Costa,2023-05-01,Private
+143,Apollo Porto,2026-02-01,Varejo
+144,Melissa Pires,2023-05-01,Varejo
+145,Enzo Gabriel Alves,2025-11-01,Varejo
+146,Levi Sales,2024-12-01,Varejo
+147,Matteo Almeida,2024-05-01,Varejo
+148,Dra. Luana Siqueira,2023-11-01,Varejo
+149,Bruna Farias,2026-01-01,Varejo
+150,Nicolas da Paz,2025-12-01,Private
+151,José Brito,2026-02-01,Varejo
+152,Liam Montenegro,2023-08-01,Varejo
+153,Dra. Esther Rezende,2023-10-01,Varejo
+154,Dr. Carlos Eduardo Farias,2023-08-01,Varejo
+155,João Felipe Aragão,2023-11-01,Varejo
+156,Olivia Jesus,2026-05-01,Varejo
+157,Isaac Peixoto,2024-12-01,Varejo
+158,Olívia Monteiro,2024-06-01,Varejo
+159,Bryan Martins,2024-05-01,Varejo
+160,Isabela Novais,2023-04-01,Private
+161,Sr. Anthony Gabriel Alves,2025-05-01,Varejo
+162,Srta. Maria Vitória Nunes,2023-04-01,Private
+163,Cecília Melo,2023-09-01,Varejo
+164,Sr. Valentim Andrade,2024-06-01,Private
+165,Dr. Kaique Aragão,2025-06-01,Varejo
+166,Elisa Freitas,2025-05-01,Varejo
+167,Calebe Alves,2023-08-01,Private
+168,Bryan da Cruz,2023-11-01,Varejo
+169,Raul da Costa,2025-01-01,Varejo
+170,Melissa Rocha,2023-10-01,Varejo
+171,Ana Vitória da Luz,2023-03-01,Varejo
+172,Sr. Heitor Vasconcelos,2023-03-01,Varejo
+173,Sr. João Lucas Rodrigues,2024-03-01,Varejo
+174,Sr. Benjamin Aragão,2023-07-01,Varejo
+175,Olivia Leão,2026-02-01,Varejo
+176,Gustavo Henrique Macedo,2025-04-01,Varejo
+177,Dra. Ana Cecília Guerra,2023-11-01,Varejo
+178,Aurora Martins,2024-04-01,Varejo
+179,Sra. Gabrielly Lima,2023-12-01,Varejo
+180,Dr. Arthur Miguel Mendes,2023-02-01,Private
+181,Juliana Duarte,2024-11-01,Varejo
+182,Rafaela Teixeira,2025-04-01,Varejo
+183,Thomas da Mota,2024-05-01,Varejo
+184,Isaac Sá,2023-08-01,Varejo
+185,Sophie da Luz,2023-03-01,Varejo
+186,Stephany Teixeira,2024-03-01,Private
+187,Sr. Luan da Conceição,2025-07-01,Varejo
+188,Renan Câmara,2024-04-01,Varejo
+189,Srta. Ayla Souza,2024-01-01,Varejo
+190,Maria Isis Borges,2024-07-01,Varejo
+191,Dra. Luana Pinto,2024-07-01,Varejo
+192,Lara Rezende,2025-11-01,Varejo
+193,Ana Casa Grande,2026-01-01,Varejo
+194,Henrique Farias,2023-02-01,Private
+195,Laís Azevedo,2024-06-01,Private
+196,Sr. Enrico Moreira,2024-06-01,Private
+197,Brenda da Rosa,2026-05-01,Varejo
+198,Maria Helena Freitas,2024-10-01,Varejo
+199,Pedro Henrique Pereira,2025-11-01,Private
+200,Eloah Cassiano,2026-03-01,Private
+201,Laura Monteiro,2023-04-01,Varejo
+202,Clarice Martins,2023-01-01,Varejo
+203,Olivia Alves,2026-01-01,Varejo
+204,Yan Rezende,2024-02-01,Varejo
+205,Sra. Letícia Macedo,2023-05-01,Varejo
+206,Arthur Gabriel Cunha,2024-11-01,Varejo
+207,Yago da Costa,2023-09-01,Varejo
+208,Benjamim Alves,2024-09-01,Varejo
+209,Diogo Teixeira,2025-04-01,Varejo
+210,Luigi Mendes,2024-08-01,Varejo
+211,Nathan Marques,2024-01-01,Varejo
+212,Isabelly Ferreira,2025-02-01,Varejo
+213,Benício Freitas,2023-12-01,Varejo
+214,Aurora Ribeiro,2024-09-01,Varejo
+215,Brayan Gonçalves,2023-01-01,Varejo
+216,Dom Aragão,2024-03-01,Varejo
+217,Arthur Pastor,2026-04-01,Varejo
+218,Mirella Correia,2024-10-01,Varejo
+219,Henry Rios,2025-06-01,Varejo
+220,Otto Camargo,2025-11-01,Varejo
+221,Kaique Duarte,2023-12-01,Varejo
+222,Davi Porto,2024-08-01,Varejo
+223,Anthony Silveira,2024-11-01,Private
+224,Dra. Heloísa Gonçalves,2024-04-01,Varejo
+225,Mariana Fernandes,2024-04-01,Varejo
+226,Ana Carolina Moraes,2023-10-01,Private
+227,Dr. Anthony Gabriel Borges,2024-05-01,Varejo
+228,Dra. Kamilly Almeida,2023-05-01,Varejo
+229,Aylla Vargas,2026-03-01,Private
+230,Lívia Melo,2025-02-01,Varejo
+231,Maria Lima,2024-05-01,Private
+232,Camila Vargas,2023-01-01,Varejo
+233,Eloá Silva,2023-08-01,Varejo
+234,Jade Siqueira,2024-03-01,Private
+235,Agatha Leão,2025-11-01,Varejo
+236,Valentim Castro,2026-02-01,Varejo
+237,Yasmin Pereira,2023-09-01,Varejo
+238,Théo Camargo,2025-08-01,Varejo
+239,Maysa Porto,2026-02-01,Varejo
+240,Sarah Pereira,2025-06-01,Varejo
+241,Augusto Cavalcante,2025-10-01,Varejo
+242,Raul Casa Grande,2026-01-01,Varejo
+243,Anna Liz Vasconcelos,2023-11-01,Varejo
+244,Maria Helena Gonçalves,2025-08-01,Varejo
+245,Luna Lima,2024-05-01,Varejo
+246,Pedro Lucas Rocha,2024-07-01,Varejo
+247,Srta. Pietra Peixoto,2025-12-01,Varejo
+248,Yago da Rosa,2024-05-01,Varejo
+249,Luna Nogueira,2023-06-01,Varejo
+250,Luan Pereira,2024-04-01,Varejo
+251,Rafaela Gomes,2024-10-01,Varejo
+252,Thiago Pacheco,2023-06-01,Private
+253,Matteo Cardoso,2024-04-01,Varejo
+254,Ana Julia Azevedo,2023-11-01,Varejo
+255,Sofia Fogaça,2023-05-01,Varejo
+256,João Vitor da Cruz,2024-11-01,Varejo
+257,Laura Mendonça,2025-05-01,Private
+258,Srta. Maysa Cardoso,2025-05-01,Varejo
+259,Sr. Antony Albuquerque,2026-04-01,Varejo
+260,João Miguel Cavalcante,2023-02-01,Varejo
+261,Maria Eduarda Barros,2026-03-01,Varejo
+262,Hellena Andrade,2023-01-01,Varejo
+263,Lunna Andrade,2024-09-01,Varejo
+264,Sophia Lopes,2025-05-01,Varejo
+265,Rafael Sampaio,2026-01-01,Varejo
+266,Lunna Sales,2024-03-01,Varejo
+267,Marina Mendes,2024-07-01,Varejo
+268,Cecilia Pimenta,2023-03-01,Varejo
+269,Gabriel Martins,2025-04-01,Varejo
+270,Dra. Ana Cecília da Rosa,2025-08-01,Varejo
+271,Dra. Nicole Santos,2025-12-01,Private
+272,Breno Gomes,2025-03-01,Varejo
+273,Sr. Luiz Otávio Casa Grande,2023-02-01,Private
+274,Gabrielly Caldeira,2025-05-01,Private
+275,Davi Miguel da Cruz,2025-08-01,Private
+276,Laura Pereira,2024-06-01,Varejo
+277,Emanuel Caldeira,2024-03-01,Varejo
+278,Carolina Moura,2024-11-01,Varejo
+279,Pedro Miguel Machado,2025-02-01,Varejo
+280,Davi Luiz Carvalho,2025-05-01,Varejo
+281,Carlos Eduardo Aragão,2023-06-01,Varejo
+282,Lorenzo Farias,2026-01-01,Private
+283,Sra. Valentina das Neves,2024-12-01,Varejo
+284,Arthur Montenegro,2023-05-01,Varejo
+285,Esther da Cunha,2023-03-01,Varejo
+286,Leonardo Fogaça,2024-05-01,Private
+287,Maria Laura Fogaça,2023-02-01,Varejo
+288,Davi Miguel Gonçalves,2024-05-01,Private
+289,Davi Lucca Camargo,2023-08-01,Varejo
+290,Maria Liz Novaes,2024-03-01,Varejo
+291,Maria Liz Mendes,2024-06-01,Varejo
+292,Cecilia Santos,2023-12-01,Varejo
+293,Caleb Azevedo,2023-08-01,Varejo
+294,Rhavi Ferreira,2023-12-01,Varejo
+295,Dr. Thiago Guerra,2023-08-01,Varejo
+296,Calebe Costela,2024-09-01,Varejo
+297,Ester Melo,2025-02-01,Varejo
+298,Kevin Fogaça,2024-02-01,Private
+299,Lorenzo da Conceição,2024-05-01,Private
+300,Maria Laura Nascimento,2024-09-01,Varejo
+301,Beatriz Costa,2026-05-01,Varejo
+302,Isaque Rodrigues,2026-03-01,Varejo
+303,Helena Azevedo,2024-12-01,Varejo
+304,Ana Lívia Andrade,2025-01-01,Private
+305,Fernanda Pastor,2024-11-01,Private
+306,Sr. Henrique Jesus,2025-05-01,Varejo
+307,Kaique Fonseca,2023-08-01,Varejo
+308,Ian Marques,2025-01-01,Varejo
+309,Dra. Raquel Sales,2025-07-01,Varejo
+310,Nathan Silva,2025-06-01,Private
+311,Enrico Novais,2025-12-01,Varejo
+312,Luiz Miguel Camargo,2024-07-01,Varejo
+313,Luana da Cunha,2026-01-01,Varejo
+314,Liam da Paz,2025-08-01,Varejo
+315,Nicolas Alves,2026-04-01,Varejo
+316,Otávio da Mata,2024-05-01,Varejo
+317,Dr. Vicente Pires,2023-06-01,Varejo
+318,Vitor Hugo Fogaça,2025-07-01,Varejo
+319,Isadora Leão,2025-08-01,Varejo
+320,Dr. João Vitor Borges,2025-02-01,Varejo
+321,Vitor Gabriel Moreira,2025-10-01,Varejo
+322,José Pedro Teixeira,2024-01-01,Varejo
+323,Luigi Vargas,2024-12-01,Varejo
+324,Heitor Sousa,2024-11-01,Varejo
+325,Sr. Pedro Lucas da Luz,2026-05-01,Varejo
+326,Pedro Lucas da Conceição,2024-07-01,Varejo
+327,Ana Luiza Abreu,2025-11-01,Varejo
+328,Sr. Davi Lucas Barros,2023-06-01,Varejo
+329,Paulo Pimenta,2025-04-01,Varejo
+330,Bruna Cirino,2024-05-01,Varejo
+331,Asafe das Neves,2025-10-01,Varejo
+332,Larissa Rezende,2023-02-01,Private
+333,Maria Julia Melo,2024-03-01,Varejo
+334,Maria Laura Rezende,2024-05-01,Varejo
+335,Renan Lima,2026-04-01,Varejo
+336,Levi Moreira,2026-02-01,Varejo
+337,Esther Monteiro,2025-05-01,Varejo
+338,Luiz Felipe Araújo,2026-02-01,Varejo
+339,Yago Nunes,2025-07-01,Varejo
+340,Lavínia Jesus,2024-05-01,Varejo
+341,Henry Gabriel Câmara,2024-01-01,Varejo
+342,Maitê da Cruz,2026-01-01,Varejo
+343,Allana Fernandes,2024-01-01,Private
+344,Sr. Luiz Miguel Cardoso,2025-09-01,Varejo
+345,Pedro Lopes,2026-04-01,Varejo
+346,Cecília Siqueira,2025-12-01,Varejo
+347,Ana Julia da Conceição,2023-07-01,Varejo
+348,Heloísa Gonçalves,2024-08-01,Varejo
+349,Olívia Mendes,2024-01-01,Varejo
+350,Brenda Macedo,2025-12-01,Private
+351,Rael Melo,2023-04-01,Varejo
+352,Vinícius Fonseca,2026-02-01,Varejo
+353,Jade Novaes,2023-09-01,Varejo
+354,Maysa Costela,2025-10-01,Private
+355,Arthur Moura,2023-01-01,Varejo
+356,Milena Borges,2025-08-01,Varejo
+357,Manuella Pastor,2024-11-01,Private
+358,Rael Oliveira,2023-04-01,Varejo
+359,Sra. Luísa das Neves,2025-09-01,Private
+360,Ana Carolina Pinto,2023-05-01,Varejo
+361,Josué Cavalcante,2023-06-01,Varejo
+362,Ana Beatriz Mendes,2023-04-01,Private
+363,Alice Sá,2026-02-01,Varejo
+364,Dra. Isadora da Costa,2023-06-01,Varejo
+365,Caroline Campos,2023-08-01,Varejo
+366,Maria Vitória Monteiro,2025-05-01,Varejo
+367,Heitor Pimenta,2024-04-01,Varejo
+368,Maria Castro,2025-02-01,Varejo
+369,Juan Castro,2025-06-01,Varejo
+370,Alana Nascimento,2026-04-01,Varejo
+371,Benjamin Fernandes,2024-09-01,Varejo
+372,Sra. Mariane Cavalcante,2023-05-01,Varejo
+373,Enzo Camargo,2023-07-01,Varejo
+374,Gabriel Pereira,2024-03-01,Varejo
+375,Antonella Peixoto,2024-06-01,Varejo
+376,Aylla da Mata,2023-11-01,Varejo
+377,Luiz Otávio Cavalcante,2026-02-01,Private
+378,Isabella da Mota,2023-01-01,Varejo
+379,Dra. Maria Clara Moreira,2026-05-01,Varejo
+380,Luiz Miguel Rodrigues,2023-03-01,Varejo
+381,Alexandre Rezende,2024-08-01,Varejo
+382,Ana Beatriz Moreira,2025-07-01,Private
+383,Isabelly Oliveira,2024-04-01,Varejo
+384,Sr. Renan Martins,2026-04-01,Varejo
+385,Srta. Hadassa Ferreira,2024-02-01,Varejo
+386,Aylla Azevedo,2026-01-01,Varejo
+387,Isabelly Alves,2023-11-01,Varejo
+388,Lívia Sousa,2023-10-01,Private
+389,Sra. Maya da Conceição,2023-12-01,Varejo
+390,Ryan Lopes,2026-05-01,Varejo
+391,Esther Cirino,2026-03-01,Varejo
+392,Lucas Gabriel Pastor,2025-06-01,Private
+393,Maria Vitória Silva,2024-09-01,Varejo
+394,Luigi Sá,2024-07-01,Varejo
+395,Sr. Marcos Vinicius da Conceição,2025-10-01,Varejo
+396,Ana Clara Albuquerque,2026-05-01,Private
+397,Vinicius Marques,2025-06-01,Varejo
+398,Srta. Emanuella Almeida,2026-05-01,Varejo
+399,Ana Clara Andrade,2023-07-01,Varejo
+400,Beatriz Cunha,2026-03-01,Varejo
+401,Ana Lívia Souza,2023-02-01,Varejo
+402,Maria Julia Sá,2024-07-01,Varejo
+403,Igor Nunes,2023-12-01,Varejo
+404,Otávio Campos,2025-06-01,Varejo
+405,Pedro Fogaça,2024-01-01,Varejo
+406,Benjamim Machado,2025-06-01,Varejo
+407,Luiz Gustavo Pimenta,2025-10-01,Varejo
+408,Maria Laura Montenegro,2025-08-01,Varejo
+409,Dra. Manuela Costa,2024-11-01,Varejo
+410,Júlia Barbosa,2023-08-01,Varejo
+411,Sra. Isadora Viana,2024-11-01,Varejo
+412,Felipe Moreira,2025-10-01,Varejo
+413,Lorena Peixoto,2025-03-01,Varejo
+414,Thiago da Cunha,2026-01-01,Private
+415,José Pedro Andrade,2023-06-01,Varejo
+416,Raul Rocha,2024-10-01,Private
+417,Sofia Moraes,2025-04-01,Varejo
+418,Fernanda Borges,2023-01-01,Varejo
+419,Camila Siqueira,2026-01-01,Varejo
+420,Sophia Cunha,2023-04-01,Private
+421,Mateus Costela,2025-01-01,Varejo
+422,Lorena Montenegro,2025-10-01,Varejo
+423,Dra. Raquel Câmara,2023-04-01,Varejo
+424,José Pedro Fernandes,2026-01-01,Private
+425,Calebe Correia,2024-08-01,Varejo
+426,Kaique Pimenta,2025-09-01,Private
+427,Dr. Benicio Caldeira,2026-05-01,Varejo
+428,Marcelo Nunes,2023-11-01,Varejo
+429,Isabela Fernandes,2023-01-01,Varejo
+430,Laís Moura,2023-07-01,Varejo
+431,Ana Lívia Garcia,2023-08-01,Varejo
+432,Dra. Camila Cavalcanti,2023-08-01,Varejo
+433,Vinícius Santos,2023-11-01,Varejo
+434,Dra. Pietra Oliveira,2024-08-01,Varejo
+435,Sr. Gustavo Henrique Ramos,2024-07-01,Varejo
+436,Laís Pereira,2025-09-01,Varejo
+437,Caio Nunes,2024-05-01,Varejo
+438,Yan das Neves,2023-10-01,Varejo
+439,Dr. Vitor da Conceição,2026-05-01,Varejo
+440,Ana Laura Garcia,2023-10-01,Varejo
+441,Dra. Alice Farias,2024-07-01,Varejo
+442,Sr. Ravy Dias,2025-04-01,Varejo
+443,Isaac Correia,2025-11-01,Varejo
+444,Thomas Moreira,2023-01-01,Varejo
+445,José Pedro da Cunha,2024-09-01,Varejo
+446,Theodoro Marques,2026-04-01,Varejo
+447,Levi Pires,2025-09-01,Varejo
+448,Natália Martins,2025-07-01,Varejo
+449,Otto Ribeiro,2024-12-01,Varejo
+450,Cecilia Macedo,2026-01-01,Varejo
+451,Enzo Gabriel Cirino,2024-10-01,Varejo
+452,Olivia Ramos,2024-05-01,Varejo
+453,Gabriela Almeida,2024-04-01,Varejo
+454,Maitê Barbosa,2025-04-01,Private
+455,Pietra Oliveira,2025-08-01,Varejo
+456,Caroline Novais,2025-02-01,Varejo
+457,Dante Cassiano,2023-11-01,Varejo
+458,Kamilly Montenegro,2023-03-01,Private
+459,Théo Cavalcanti,2026-04-01,Varejo
+460,Jade Araújo,2023-07-01,Varejo
+461,Ísis Sampaio,2025-06-01,Private
+462,Sra. Liz Nogueira,2025-07-01,Private
+463,Ana Carolina Cavalcanti,2023-10-01,Varejo
+464,Miguel Vasconcelos,2023-11-01,Private
+465,Arthur Miguel Camargo,2024-06-01,Varejo
+466,Gabriela Gonçalves,2025-03-01,Varejo
+467,Dr. Antônio Gomes,2024-11-01,Varejo
+468,Yuri Costela,2025-12-01,Varejo
+469,Luiz Otávio Cirino,2024-10-01,Varejo
+470,Sra. Kamilly Abreu,2025-09-01,Varejo
+471,Dr. Asafe Viana,2023-03-01,Varejo
+472,Dra. Beatriz Sales,2024-04-01,Varejo
+473,Heitor Novais,2024-08-01,Varejo
+474,Lara Silveira,2023-07-01,Varejo
+475,João Lucas Barros,2023-07-01,Varejo
+476,Dr. Marcelo Garcia,2023-07-01,Varejo
+477,Hadassa Freitas,2024-09-01,Varejo
+478,Paulo Aragão,2023-04-01,Varejo
+479,Luara Machado,2023-04-01,Varejo
+480,Nina Cunha,2025-02-01,Varejo
+481,Isis Cirino,2024-05-01,Varejo
+482,Matteo Vieira,2026-03-01,Varejo
+483,Dante Farias,2024-01-01,Private
+484,Maria Laura da Costa,2023-06-01,Varejo
+485,Maria Laura Fonseca,2025-02-01,Varejo
+486,Sr. Anthony Gabriel da Cunha,2024-05-01,Varejo
+487,Lívia Nogueira,2026-04-01,Private
+488,Allana Novaes,2025-08-01,Varejo
+489,Eloah Camargo,2025-07-01,Varejo
+490,Luiza Barbosa,2023-01-01,Varejo
+491,Fernanda Montenegro,2025-08-01,Varejo
+492,Ana Clara Mendonça,2026-01-01,Private
+493,Vicente Rezende,2025-06-01,Varejo
+494,Joana Cardoso,2026-04-01,Varejo
+495,Dr. Vitor Gabriel Pinto,2025-05-01,Varejo
+496,Ravi Câmara,2025-07-01,Varejo
+497,Thiago Araújo,2024-02-01,Varejo
+498,José da Luz,2025-09-01,Private
+499,Rael Guerra,2025-02-01,Varejo
+500,Pedro Abreu,2026-03-01,Varejo
